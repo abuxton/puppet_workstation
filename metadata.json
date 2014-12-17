@@ -1,0 +1,14 @@
+{
+  "name": "abuxton-puppet_workstation",
+  "version": "0.1.0",
+  "author": "abuxton",
+  "summary": "A module to set up a puppet node as a wokstation with required resources.",
+  "license": "Apache 2.0",
+  "source": "http://github.com/abuxton/puppet_workstation",
+  "project_page": "https://github.com/abuxton/puppet_workstation",
+  "issues_url": "https://github.com/abuxton/puppet_workstation/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
