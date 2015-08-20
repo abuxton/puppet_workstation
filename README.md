@@ -27,7 +27,7 @@ Set up a *nix host or OSX environment for working with puppet. Features to event
 * Vim plugins for puppet 
 * Optionals, Sublime, Gapetto
 * module support, zack/exports, Dalen/puppetdbquery...
-
+* Git support for projects
 ## Setup
 
 ### What puppet_workstation affects
